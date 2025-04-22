@@ -12,13 +12,6 @@ A full-stack application designed to streamline urban commuting by enabling user
 - React.js
 - Tailwind CSS
 
-**Backend:**
-
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-
 **Languages:**
 
 - JavaScript
@@ -30,15 +23,9 @@ A full-stack application designed to streamline urban commuting by enabling user
 -npm install
 -npm run dev
 
-### Backend Setup
-
--cd backend
--npm install
--npm start
-
 
 ## 📌 Note
 Deployment is currently in progress.  
-Backend and frontend services are developed and tested locally.  
+frontend services are developed and tested locally.  
 Integration of third-party dependencies and cloud deployment will be completed in the upcoming phase.
 
